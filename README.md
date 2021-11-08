@@ -91,7 +91,7 @@ That's it, you are done! Expect an email next week!
 
 Click the button to login or register with Datastax
 
-<a href="https://dtsx.io/AstraDB-715"><img src="tutorial/images/create_astra_db.png?raw=true" /></a>
+<a href="https://astra.dev/11-10"><img src="tutorial/images/create_astra_db.png?raw=true" /></a>
 - <details><summary>Show me!</summary>
     <img src="https://github.com/datastaxdevs/workshop-spring-stargate/raw/main/images/tutorials/astra-create-db.gif?raw=true" />
 </details>
@@ -99,7 +99,7 @@ Click the button to login or register with Datastax
 **Use the following values when creating the database**
 |Field| Value|
 |---|---|
-|**database name**| `tiktok_workshop_db` |
+|**database name**| `workshops` |
 |**keypace**| `tiktok_keyspace` |
 |**Cloud Provider**| *Use the one you like, click a cloud provider logo,  pick an Area in the list and finally pick a region.* |
 
@@ -220,7 +220,7 @@ Notice the clipboard icon at the end of each value.
 ### 7. Configure and connect database
  * In the repository directory run the following command to set up your Astra DB environment. This will verify the database you created earlier or create a new one for you if it can't find your database.
  ```
- npm exec astra-setup tiktok_workshop_db tiktok_keyspace
+ npm exec astra-setup workshops tiktok_keyspace
 ```
 
 <details>
@@ -356,7 +356,7 @@ We will call the collection "**tktkposts**".
 
 So now, any time we want to perform operations on our data, we will reference this method `getCollection`, and use the Document API from Stargate to do so.
 
-✅ Now that we have locally deployed our TikTok app, let's take a look at this in our database. Head to your [Astra DB dashboard](astra.datastax.com) and click the `Connect` button next to your database ('tiktok_workshop_db').
+✅ Now that we have locally deployed our TikTok app, let's take a look at this in our database. Head to your [Astra DB dashboard](astra.datastax.com) and click the `Connect` button next to your database ('workshops').
 
 ![db_connect](./tutorial/images/db_connect.png?raw=true)
 
