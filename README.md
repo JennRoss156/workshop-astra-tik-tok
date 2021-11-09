@@ -49,9 +49,9 @@ It doesn't matter if you join our workshop live or you prefer to do at your own 
 
 Don't forget to complete your upgrade and get your verified skill badge! Finish and submit your homework!
 
-1. Complete the practice steps from this repository as described below. Make screenshots alongside the steps and show us your deployed production TikTok clone up in Netlify.
+1. Complete the practice steps from this repository as described below. Take a screenshot and show us your deployed production TikTok clone up in Netlify.
 2. (Optional extra credit) Watch the 2 hour Ania video [HERE](#video-tutorial-with-ania-kubow), build the app yourself, and show us the completed app.
-3. Submit your homework [here](https://github.com/datastaxdevs/workshop-astra-tik-tok/issues/new?assignees=HadesArchitect&labels=homework%2Cpending&template=homework-assignment.md&title=%5BHW%5D+%3CNAME%3E)
+3. Submit your homework [here](https://docs.google.com/forms/d/1BV5qJstc2Z8CV4XamolOLe5UjuDFoIunbMgpi4_iiys)
 
 That's it, you are done! Expect an email next week!
   
