@@ -100,7 +100,7 @@ Click the button to login or register with Datastax
 |Field| Value|
 |---|---|
 |**database name**| `workshops` |
-|**keypace**| `tiktok_keyspace` |
+|**keyspace**| `tiktok_keyspace` |
 |**Cloud Provider**| *Use the one you like, click a cloud provider logo,  pick an Area in the list and finally pick a region.* |
 
 ### 2. Deploy to Netlify
